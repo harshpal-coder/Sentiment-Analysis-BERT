@@ -2,6 +2,8 @@
 
 A deep learning project for **sentiment classification of tweets** using **BERT (Bidirectional Encoder Representations from Transformers)**. The project includes data preprocessing, vocabulary/tokenizer setup, model training, evaluation, and visualization of results such as confusion matrix, ROC curves, and word clouds.  
 
+---
+
 ## Features
 - Preprocess tweets with cleaning, tokenization, and splitting into train/val/test sets.  
 - Fine-tune `bert-base-uncased` on sentiment labels (`negative`, `neutral`, `positive`).  
@@ -9,6 +11,8 @@ A deep learning project for **sentiment classification of tweets** using **BERT 
 - Generate **classification reports, confusion matrices, ROC curves**.  
 - Create **word clouds** for positive and negative predictions.  
 - Modular codebase with reproducible pipelines for preprocessing, training, and evaluation.  
+
+---
 
 ## Project Structure
 ```
@@ -32,6 +36,7 @@ sentiment-analysis-bert/
 │  └─ utils.py
 └─ README.md
 ```
+---
 
 ## Setup
 ```bash
@@ -57,21 +62,26 @@ python src/train_bert.py --train data/train.csv --val data/val.csv  --outdir out
 ```bash
 python src/evaluate.py --test data/test.csv --checkpoint outputs  --outdir outputs --wordclouds
 ```
+---
 
 ## Results
 - **Classification Report:** `outputs/classification_report.txt`
-- 
+---
+
 - **Confusion Matrix:**  
 
   <img width="800" height="640" alt="confusion_matrix" src="https://github.com/user-attachments/assets/f7c6d7c0-bb1d-467c-819a-2999a6d32e4f" />
+---
 
 - **Training Curves:**  
 
   <img width="960" height="640" alt="training_curves" src="https://github.com/user-attachments/assets/219af181-15fd-4f1e-aabe-c3234a816af7" />
+---
 
 - **Negative Wordcloud:**  
 
   <img width="1280" height="640" alt="wordcloud_negative" src="https://github.com/user-attachments/assets/1f68aed5-ad15-4388-b132-026fc7e5b65b" />
+---
 
 ## Requirements
 - Python 3.8+  
@@ -79,6 +89,8 @@ python src/evaluate.py --test data/test.csv --checkpoint outputs  --outdir outpu
 - Transformers (HuggingFace)  
 - Scikit-learn, Pandas, Matplotlib, Seaborn  
 - WordCloud  
+
+---
 
 ## Next Steps
 - Expand dataset for more robust evaluation.  
